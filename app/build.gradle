@@ -8,6 +8,7 @@ android {
         applicationId "org.kotemaru.android.camera2sample"
         minSdkVersion 21
         targetSdkVersion 21
+        multiDexEnabled true
     }
 
     buildTypes {
