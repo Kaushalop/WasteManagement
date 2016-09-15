@@ -16,4 +16,6 @@ Note: Minimum SDK is set to <b>21</b>
 
 -> Location [not working yet]
 
+Update: used LocationManager to fetch the location coordinates
+
 -> Mail with attachment
