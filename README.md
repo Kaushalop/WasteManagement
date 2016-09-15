@@ -1,4 +1,10 @@
-<h1><b>Features</b></h1>
+<h2>How to run </h2>
+
+Open Android Studio -> Import Project after downloading this code zip
+
+Note: Minimum SDK is set to <b>21</b>
+
+<h2>Features</h2>
 
 -> Camera2 API for Android
 
